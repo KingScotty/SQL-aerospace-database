@@ -8,3 +8,4 @@ System Administration Tasks: Implemented essential administrative functions for 
 Internal Documentation via Spreadsheets: Developed accompanying spreadsheets to document internal processes and provide clarity for system operations.
 By working on this project, we honed our abilities in SQL programming, teamwork, and technical problem-solving. The accompanying spreadsheet serves as a critical internal reference document, demonstrating how data can be organized and tracked efficiently in real-world scenarios.
 
+You will see our ability to plan by having a excel spreadsheet and a doctument that guided the development of our database.
